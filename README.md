@@ -5,10 +5,10 @@
 - 📫 How to reach me: mail : **mathys1.dupont@epitech.eu**
 - ⚡ I'm currenty playing **Dragon Ball : Sparking Zero** !
 
-## !(https://img.icons8.com/?size=100&id=12599&format=png&color=000000) Languages and tools
+## ![github](https://img.icons8.com/?size=100&id=12599&format=png&color=000000) Languages and tools
 
 [![C](https://img.shields.io/badge/-white?logo=c&logoSize=25&color=grey)](https://devdocs.io/c/)
 [![Shell](https://img.shields.io/badge/Shell-white?logo=gnometerminal&logoColor=black&logoSize=25&color=grey)](https://doc.ubuntu-fr.org/tutoriel/script_shell)
-[![Static Badge](https://img.shields.io/badge/CSFML-white?logo=sfml&logoSize=25&color=grey)](https://www.sfml-dev.org/download/csfml/)
+[![CSFML](https://img.shields.io/badge/CSFML-white?logo=sfml&logoSize=25&color=grey)](https://www.sfml-dev.org/download/csfml/)
 
 [![Linux](https://img.shields.io/badge/Linux-white?logo=ubuntu&logoColor=orange&logoSize=25&color=grey)](https://ubuntu.com/)
