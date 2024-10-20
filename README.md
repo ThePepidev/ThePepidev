@@ -15,4 +15,4 @@
 
 ## ![coding](https://img.icons8.com/?size=30&id=19294&format=png&color=000000) **My DevSchool :**
 
-[![epitech](https://upload.wikimedia.org/wikipedia/commons/f/fe/Epitech_Official_Logo.png)](https://www.epitech.eu/)
+[![epitech](https://companieslogo.com/img/orig/epitech-eu-28fcad28.png?t=1720244494)](https://www.epitech.eu/)
