@@ -7,4 +7,5 @@
 
 ## Languages and tools
 
-![Linux](https://img.shields.io/badge/Linux-white?logo=https%3A%2F%2Fimg.icons8.com%2F%3Fsize%3D100%26id%3D11370%26format%3Dpng%26color%3D000000&logoSize=25&color=grey&link=https%3A%2F%2Fubuntu.com%2F)
+[![Linux](https://img.shields.io/badge/Linux-white?logo=ubuntu&logoColor=orange&logoSize=25&color=grey)](https://ubuntu.com/)
+
