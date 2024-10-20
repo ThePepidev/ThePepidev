@@ -15,5 +15,5 @@
 
 ## ![coding](https://img.icons8.com/?size=30&id=19294&format=png&color=000000) **My DevSchool :**
 <p align="center">
-[![epitech](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Epitech.png/120px-Epitech.png)](https://www.epitech.eu/)
+// [![epitech](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Epitech.png/120px-Epitech.png)](https://www.epitech.eu/)
 </p>
