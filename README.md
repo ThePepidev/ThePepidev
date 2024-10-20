@@ -13,6 +13,6 @@
 
 [![Linux](https://img.shields.io/badge/Linux-white?logo=ubuntu&logoColor=orange&logoSize=25&color=grey)](https://ubuntu.com/)
 
-## **<code style="purple : name_color">#include</code> "My_DevSchool.h"** !
+## **<code style="color : purple">#include</code> "My_DevSchool.h"** !
 
 [![epitech]()](https://www.epitech.eu/)
