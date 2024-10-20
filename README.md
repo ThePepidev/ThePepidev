@@ -7,4 +7,4 @@
 
 ## Languages and tools
 
-![Linux](https://img.icons8.com/?size=100&id=11370&format=png&color=000000)
+![Linux](https://img.icons8.com/?size=10&id=11370&format=png&color=000000)
