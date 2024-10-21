@@ -16,3 +16,11 @@
 ## ![coding](https://img.icons8.com/?size=30&id=19294&format=png&color=000000) **My DevSchool :**
 
    [![epitech](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Epitech.png/120px-Epitech.png)](https://www.epitech.eu/)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ThePepidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ThePepidev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePepidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ThePepidev&icon=0&color=0)](https://visitcount.itsvg.in)
