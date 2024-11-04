@@ -3,7 +3,7 @@
 - 🔭 I'm actually working on **setting up project**
 - 🌱 I’m currently learning Shell, Makefile, C and CSFML !
 - 📫 How to reach me: mail : **mathys1.dupont@epitech.eu**
-- ⚡ I'm playing sometimes **Dragon Ball : Sparking Zero** !
+- ⚡ I'm playing sometimes **Minecraft** !
 
 ## ![github](https://img.icons8.com/?size=30&id=106562&format=png&color=000000) **Languages and tools :**
 
