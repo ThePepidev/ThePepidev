@@ -1,6 +1,6 @@
 # **Hi there 👋**
 
-- 🔭 I'm actually working on **setting up** and **my_hunter**
+- 🔭 I'm actually working on **my_hunter** and **my_top**
 - 🌱 I’m currently learning Shell, Makefile, C and CSFML !
 - 📫 How to reach me: mail : **mathys1.dupont@epitech.eu**
 - ⚡ I'm playing sometimes **Minecraft** !
