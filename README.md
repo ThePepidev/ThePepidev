@@ -13,7 +13,7 @@
 [![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=white&logoSize=25&color=orange)](https://www.python.org/)
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu&logoColor=white&logoSize=25&color=orange)](https://ubuntu.com/)
-[![Kali](https://img.shields.io/badge/Kali-white?logo=kalilinux&logoColor=blue&logoSize=100&color=black)](https://www.kali.org)
+[![Kali](https://img.shields.io/badge/Kali-white?logo=kalilinux&logoColor=blue&logoSize=25&color=black)](https://www.kali.org)
 
 ## ![coding](https://img.icons8.com/?size=30&id=19294&format=png&color=000000) **My DevSchool :**
 
