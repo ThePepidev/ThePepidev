@@ -7,7 +7,7 @@
 
 ## ![github](https://img.icons8.com/?size=30&id=106562&format=png&color=000000) **Languages and tools :**
 
-[![C](https://img.shields.io/badge/-white?logo=c&logoSize=25&logocolor=white&color=darkblue)](https://devdocs.io/c/)
+[![C](https://img.shields.io/badge/-white?logo=c&logocolor=white&logoSize=25&color=darkblue)](https://devdocs.io/c/)
 [![Shell](https://img.shields.io/badge/Shell-white?logo=gnometerminal&logoColor=black&logoSize=25&color=grey)](https://doc.ubuntu-fr.org/tutoriel/script_shell)
 [![CSFML](https://img.shields.io/badge/CSFML-white?logo=sfml&logoSize=25&color=darkgreen)](https://www.sfml-dev.org/download/csfml/)
 [![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=white&logoSize=25&color=orange)](https://www.python.org/)
