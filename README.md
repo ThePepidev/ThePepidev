@@ -20,9 +20,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThePepidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=ThePepidev&theme=dark&hide_border=false)
-<p align="center" width="100%">
+![] (<p align="center" width="100%">
   <img width ="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePepidev&theme=dark&border=false&include&all_commits=true&count_private=true&layout=compact"/>
-</p>
+</p>)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThePepidev&icon=0&color=0)](https://visitcount.itsvg.in)
