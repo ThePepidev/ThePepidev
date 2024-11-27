@@ -10,7 +10,7 @@
 [![C](https://img.shields.io/badge/-white?logo=c&logocolor=white&logoSize=25&color=darkblue)](https://devdocs.io/c/)
 [![Shell](https://img.shields.io/badge/Shell-white?logo=gnometerminal&logoColor=black&logoSize=25&color=grey)](https://doc.ubuntu-fr.org/tutoriel/script_shell)
 [![CSFML](https://img.shields.io/badge/CSFML-white?logo=sfml&logoSize=25&color=darkgreen)](https://www.sfml-dev.org/download/csfml/)
-[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=orange&bluelogoSize=25&color=grey)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=orange&bluelogoSize=25&color=white)](https://www.python.org/)
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu&logoColor=white&logoSize=25&color=orange)](https://ubuntu.com/)
 [![Kali](https://img.shields.io/badge/Kali-white?logo=kalilinux&logoColor=blue&logoSize=25&color=black)](https://www.kali.org)
