@@ -7,10 +7,10 @@
 
 ## ![github](https://img.icons8.com/?size=30&id=106562&format=png&color=000000) **Languages and tools :**
 
-[![C](https://img.shields.io/badge/-white?logo=c&logoSize=25&color=grey)](https://devdocs.io/c/)
-[![Shell](https://img.shields.io/badge/Shell-white?logo=gnometerminal&logoColor=black&logoSize=25&color=grey)](https://doc.ubuntu-fr.org/tutoriel/script_shell)
-[![CSFML](https://img.shields.io/badge/CSFML-white?logo=sfml&logoSize=25&color=grey)](https://www.sfml-dev.org/download/csfml/)
-[![Python](https://img.shields.io/badge/python-white?logo=python&logoColor=white&logoSize=25&color=grey)](https://www.python.org/)
+[![C](https://img.shields.io/badge/-white?logo=c&logoSize=25&color=blue)](https://devdocs.io/c/)
+[![Shell](https://img.shields.io/badge/Shell-white?logo=gnometerminal&logoColor=black&logoSize=25&color=black)](https://doc.ubuntu-fr.org/tutoriel/script_shell)
+[![CSFML](https://img.shields.io/badge/CSFML-white?logo=sfml&logoSize=25&color=green)](https://www.sfml-dev.org/download/csfml/)
+[![Python](https://img.shields.io/badge/python-white?logo=python&logoColor=white&logoSize=25&color=orange)](https://www.python.org/)
 
 [![Linux](https://img.shields.io/badge/Linux-white?logo=ubuntu&logoColor=orange&logoSize=25&color=grey)](https://ubuntu.com/)
 
