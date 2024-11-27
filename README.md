@@ -10,9 +10,10 @@
 [![C](https://img.shields.io/badge/-white?logo=c&logoSize=25&color=blue)](https://devdocs.io/c/)
 [![Shell](https://img.shields.io/badge/Shell-white?logo=gnometerminal&logoColor=black&logoSize=25&color=grey)](https://doc.ubuntu-fr.org/tutoriel/script_shell)
 [![CSFML](https://img.shields.io/badge/CSFML-white?logo=sfml&logoSize=25&color=darkgreen)](https://www.sfml-dev.org/download/csfml/)
-[![Python](https://img.shields.io/badge/python-white?logo=python&logoColor=white&logoSize=25&color=orange)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=white&logoSize=25&color=orange)](https://www.python.org/)
 
-[![Linux](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu&logoColor=white&logoSize=25&color=orange)](https://ubuntu.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu&logoColor=white&logoSize=25&color=orange)](https://ubuntu.com/)
+[![Kali](https://img.shields.io/badge/Kali-white?logo=kalilinux&logoColor=blue&logoSize=25&color=black)](https://www.kali.org)
 
 ## ![coding](https://img.icons8.com/?size=30&id=19294&format=png&color=000000) **My DevSchool :**
 
