@@ -21,7 +21,7 @@
 # 📊 GitHub Stats:
 <p align="center">
    <img width ="45%" src="https://github-readme-stats.vercel.app/api?username=ThePepidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-   <img width ="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThePepidev&theme=dark&hide_border=false"/>
+   <img width ="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThePepidev&theme=dark&hide_border=false"/>
    <img width ="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePepidev&theme=dark&border=false&include&all_commits=true&count_private=true&layout=compact"/>
 </p>
 
