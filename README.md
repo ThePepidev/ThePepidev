@@ -12,7 +12,7 @@
 [![CSFML](https://img.shields.io/badge/CSFML-white?logo=sfml&logoSize=25&color=darkgreen)](https://www.sfml-dev.org/download/csfml/)
 [![Python](https://img.shields.io/badge/python-white?logo=python&logoColor=white&logoSize=25&color=orange)](https://www.python.org/)
 
-[![Linux](https://img.shields.io/badge/Linux-white?logo=ubuntu&logoColor=white&logoSize=25&color=orange)](https://ubuntu.com/)
+[![Linux](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu&logoColor=white&logoSize=25&color=orange)](https://ubuntu.com/)
 
 ## ![coding](https://img.icons8.com/?size=30&id=19294&format=png&color=000000) **My DevSchool :**
 
