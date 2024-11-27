@@ -10,7 +10,7 @@
 [![C](https://img.shields.io/badge/-white?logo=c&logoSize=25&color=grey)](https://devdocs.io/c/)
 [![Shell](https://img.shields.io/badge/Shell-white?logo=gnometerminal&logoColor=black&logoSize=25&color=grey)](https://doc.ubuntu-fr.org/tutoriel/script_shell)
 [![CSFML](https://img.shields.io/badge/CSFML-white?logo=sfml&logoSize=25&color=grey)](https://www.sfml-dev.org/download/csfml/)
-[![Python](https://img.shields.io/badge/python-lightgrey?style=flat&logo=python&logoColor=white&logoSize=25)]
+[![Python](https://img.shields.io/badge/python-white?logo=python&logoColor=white&logoSize=25&color=grey)]
 
 [![Linux](https://img.shields.io/badge/Linux-white?logo=ubuntu&logoColor=orange&logoSize=25&color=grey)](https://ubuntu.com/)
 
