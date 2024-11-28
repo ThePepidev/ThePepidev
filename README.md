@@ -8,7 +8,6 @@
 # **🌐 Social Media :**
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/maathys_dpt/)
-[![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logocolor=white&color=pink)](https://www.instagram.com/maathys_dpt/)
 
 # ![github](https://img.icons8.com/?size=30&id=106562&format=png&color=000000) **Languages and tools :**
 
