@@ -21,9 +21,9 @@
 [![Kali](https://img.shields.io/badge/Kali-white?style=for-the-badge&logo=kalilinux&logoColor=white&color=black)](https://www.kali.org)
 
 ## ![coding](https://img.icons8.com/?size=30&id=19294&format=png&color=000000) **My DevSchool :**
-<p href="https://www.epitech.eu/" align="center">
+<a href="https://www.epitech.eu/" align="center">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Epitech.png/120px-Epitech.png"/>
-</p>
+</a>
 
 ## 📊 GitHub Stats:
 <p align="center">
