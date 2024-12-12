@@ -27,7 +27,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
    <img width ="45%" src="https://github-readme-stats.vercel.app/api?username=ThePepidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-   <img width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePepidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+   <img width ="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePepidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 ## 🏆 GitHub Trophies
