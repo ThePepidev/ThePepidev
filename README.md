@@ -1,6 +1,6 @@
 # **Hi there 👋**
 
-- 🔭 I'm actually working on **secured** and **my_radar**
+- 🔭 I'm actually working on **secured**
 - 🌱 I’m currently learning Shell, Makefile, C and CSFML !
 - 📫 How to reach me: mail : **mathys.dupont.pro@outlook.com**
 - ⚡ I'm playing sometimes **BO6** !
