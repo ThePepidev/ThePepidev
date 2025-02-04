@@ -3,7 +3,7 @@
 - 🔭 I'm actually working on **secured**, **my_sudo** and **105demography**
 - 🌱 I’m currently learning Shell, Makefile, C and CSFML !
 - 📫 How to reach me: mail : **mathys.dupont.pro@outlook.com**
-- ⚡ I'm playing sometimes **BO6** !
+- ⚡ I'm playing sometimes **LOL** !
 
 ## **🌐 Social Media :**
 
