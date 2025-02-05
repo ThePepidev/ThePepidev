@@ -1,7 +1,7 @@
 # **Hi there 👋**
 
 - 🔭 I'm actually working on **finding an internship**
-- 🌱 I’m currently learning Shell, Makefile, C and CSFML !
+- 🌱 I’m currently learning Shell, Python and C !
 - 📫 How to reach me: mail : **mathys.dupont.pro@outlook.com**
 - ⚡ I'm playing sometimes **LOL** !
 
