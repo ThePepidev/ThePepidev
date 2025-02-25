@@ -1,6 +1,6 @@
 # **Hi there 👋**
 
-- 🔭 I'm actually working on **finding an internship**
+- 🔭 I'm actually working on **minishell**, **robot factory**, **popeye** and **my_world**
 - 🌱 I’m currently learning Shell, Python and C !
 - 📫 How to reach me: mail : **mathys.dupont.pro@outlook.com**
 - ⚡ I'm playing sometimes **LOL** !
