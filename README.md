@@ -3,7 +3,7 @@
 - 🔭 I'm actually working on **minishell2** and **cuddle**
 - 🌱 I’m currently learning Shell, Python and C !
 - 📫 How to reach me: mail : **mathys.dupont.pro@outlook.com**
-- ⚡ I'm playing sometimes **LOL** !
+- ⚡ I'm playing sometimes **Rocket League** !
 
 ## **🌐 Social Media :**
 
