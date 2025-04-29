@@ -1,6 +1,6 @@
 # **Hi there 👋**
 
-- 🔭 I'm actually working on **Burp** and **Amazed**
+- 🔭 I'm actually working on **Corewar**, **Wolf3D**, **Epytodo** and **42sh**
 - 🌱 I’m currently learning Shell, Python and C !
 - 📫 How to reach me: mail : **mathys.dupont.pro@outlook.com**
 - ⚡ I'm playing sometimes **Rocket League** !
