@@ -3,7 +3,7 @@
 - 🔭 I'm actually working on **my intership at https://www.leblogdudirigeant.com/** !
 - 🌱 I’m currently learning Shell, Python, javascript and C !
 - 📫 How to reach me: mail : **mathys.dupont.pro@outlook.com**
-- ⚡ I'm playing sometimes **Rocket League** !
+- ⚡ I'm playing sometimes **League of Legend** !
 
 ## **🌐 Social Media :**
 
