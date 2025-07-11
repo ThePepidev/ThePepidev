@@ -16,7 +16,7 @@
 [![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=gnometerminal&logoColor=black&color=white)](https://doc.ubuntu-fr.org/tutoriel/script_shell)
 [![CSFML](https://img.shields.io/badge/CSFML-white?style=for-the-badge&logo=sfml&color=darkgreen)](https://www.sfml-dev.org/download/csfml/)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB&color=white)](https://www.python.org/)
-[![Javascript](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=javascript&logoColor=3776AB&color=yellow)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Javascript](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=javascript&logoColor=black&color=yellow)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=white&color=orange)](https://ubuntu.com/)
 [![Kali](https://img.shields.io/badge/Kali-white?style=for-the-badge&logo=kalilinux&logoColor=white&color=black)](https://www.kali.org)
