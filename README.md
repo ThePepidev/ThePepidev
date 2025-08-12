@@ -7,9 +7,9 @@
 
 ## **🌐 Social Media :**
 
+[![Website](https://img.shields.io/badge/mon_siteweb-blue?style=flat&logo=safari)](https://www.pepidev.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/maathys_dpt/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathys-dupont-8a934333b/)
-[![Website](https://img.shields.io/badge/mon_siteweb-blue?style=flat&logo=safari)](https://www.pepidev.dev)
 
 ## ![github](https://img.icons8.com/?size=30&id=106562&format=png&color=000000) **Languages and tools :**
 
