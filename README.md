@@ -37,3 +37,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThePepidev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🎵 My Music
+
+<iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/playlist/1497954901" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
