@@ -41,5 +41,5 @@
 ## 🎵 My Music
 
 <a href="https://link.deezer.com/s/31rCTy5vksbSxGYKSviaB" align="center">
-   <img src="https://companieslogo.com/img/orig/DEEZR.PA-dbdcf2cf.png?t=1721547851"/>
+  <img src="https://companieslogo.com/img/orig/DEEZR.PA-dbdcf2cf.png?t=1721547851" width="120"/>
 </a>
