@@ -1,6 +1,6 @@
 # **Hi there 👋**
 
-- 🔭 I'm actually working on **my internship at [leblogdudirigeant](https://www.leblogdudirigeant.com/)** !
+- 🔭 I'm actually working on **my c++ pool at Epitech** !
 - 🌱 I’m currently learning Shell, Python, javascript and C !
 - 📫 How to reach me: mail : **mathys.dupont.pro@outlook.com**
 - ⚡ I'm playing sometimes **League of Legend**, **Valorant** or **Inazuma Eleven** !
