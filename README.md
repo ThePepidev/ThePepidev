@@ -1,7 +1,7 @@
 # **Hi there 👋**
 
 - 🔭 I'm actually working on **my second year at Epitech** !
-- 🌱 I’m currently learning Shell, Python, javascript and C !
+- 🌱 I’m currently learning Shell, Python, javascript, C, rust and C++ !
 - 📫 How to reach me: mail : **mathys.dupont.pro@outlook.com**
 - ⚡ I'm playing sometimes **League of Legend**, **Valorant** or **Inazuma Eleven** !
 
